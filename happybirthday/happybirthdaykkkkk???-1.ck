@@ -1,4 +1,4 @@
-/* Play a sine wave at 440Hz for 1 week */
+/* Primeira tentativa de tocar a música*/
 1::second / 2 => dur beat1;
 
 SinOsc osc => dac;
